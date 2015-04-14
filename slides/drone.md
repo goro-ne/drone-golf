@@ -24,17 +24,14 @@
 <div class="title">空飛ぶアクションカメラ撮影プラン</div>
 
 <div class="frame">
+
 <div class="right">
-
 <div class="shadow">
-
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="shadow">
 ![](images/skycontroller.jpg)
 </div>
-
 </div>
 
 <div class="left">
@@ -56,3 +53,8 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 補足：フルHD（1,080 ☓ 1,920）での動画撮影が可能な1,400万画素の魚眼レンズ付きカメラを標準搭載。
 内臓の8GBフラッシュメモリに40分の撮影した動画（H.264のMPEG4）を保存、デバイスに転送が可能に可能。
 写真も高画質の解像度4,096 ☓ 3,072（jpeg、RAW、DNG）で撮影できる。
+
+
+---
+
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
