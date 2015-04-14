@@ -16,6 +16,9 @@
 ---
 
 <div class="title">空飛ぶアクションカメラ撮影プラン</div>
+撮影スタッフが同行して、プレイの様子を上空から撮影するサービスをご提案。
+<br>
+
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 Note:
@@ -23,7 +26,9 @@ Note:
 ---
 
 <div class="title">空飛ぶアクションカメラ撮影プラン</div>
-撮影スタッフが同行して、プレイの様子を上空から撮影するサービス
+撮影スタッフが同行して、プレイの様子を上空から撮影するサービスをご提案。
+<br>
+
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 ---
@@ -42,7 +47,7 @@ Note:
 </div>
 
 <div class="left">
-<li>特徴：最新コンシュマー向け人気モデル AR Droneの後継機。約40分のフルHD動画を撮影、
+<li>特徴：人気モデル AR Droneの後継機。約40分のフルHD動画を撮影、
 iPad用スカイコントローラーとセットで飛行距離が最大2kmまで拡大可能。リアルタイム撮影ができる。</li>
 <br>
 <li>販売元：Parrot</li>
@@ -50,7 +55,7 @@ iPad用スカイコントローラーとセットで飛行距離が最大2kmま�
 <li>実売価格：141,372円 (スカイコントローラーセット)</li>
 <li style="color:green">ボディに接触があると緊急停止機能が作動する「安全設計」</li>
 <li style="color:red">バッテリーあたりの飛行時間は約11分。水には弱いので、海や川の近くでの利用に注意。</li>
-</div>あ
+</div>
 
 </div>
 
