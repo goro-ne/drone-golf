@@ -16,7 +16,7 @@
 ---
 
 <div class="title">空飛ぶアクションカメラ撮影プラン</div>
-撮影スタッフが同行して、プレイの様子を上空から撮影するサービスをご提案。
+撮影スタッフが同行し、プレイを上空から撮影するサービスをご提案。
 <br>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
@@ -26,7 +26,7 @@ Note:
 ---
 
 <div class="title">空飛ぶアクションカメラ撮影プラン</div>
-撮影スタッフが同行して、プレイの様子を上空から撮影するサービスをご提案。
+撮影スタッフが同行し、プレイを上空から撮影するサービスをご提案。
 <br>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
