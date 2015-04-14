@@ -16,7 +16,7 @@ Note:
 <div class="frame">
 <div class="right">
 <div class="shadow">
-![]()
+![](http://www.gizmodo.jp/images/2015/03/20150312parrotdrone07.jpg)
 </div>
 </div>
 
