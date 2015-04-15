@@ -46,7 +46,7 @@ Note:
 <div class="shadow" style="width:60%;">
 ![](images/parrot-bebop-skycontroller.jpg)
 </div>
-<li style="color:green">ヘッドマウントディスプレイを接続し、ＶＲ体験ツアーも可能。</li>
+<p style="font-size:small;">ヘッドマウントディスプレイを接続し、ＶＲ体験ツアーも可能。</p>
 
 </div>
 
