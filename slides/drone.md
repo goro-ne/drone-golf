@@ -16,7 +16,7 @@
 
 ---
 
-<div class="title">ドローンレースプラン</div>
+<div class="title">低空飛行ドローンレース</div>
 <p style="color:RoyalBlue">エキサイティングな若者向けドローンレースを開催。</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/6zDDsX5xYcA?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
