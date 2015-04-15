@@ -100,7 +100,7 @@ Note:
 </div>
 
 <div class="shadow" style="width:70%;">
-![](images/galaxy-visitor-controller.jpg)
+![](images/galaxy-visitor6-controller.jpg)
 </div>
 
 </div>
