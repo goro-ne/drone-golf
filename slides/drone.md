@@ -1,13 +1,13 @@
 
 <div style="virtical-align:middle;height:500px;background-size:100%;background-image:url('images/barefoot-resort-love.jpg');
 ">
-<div style="width:100%;height:100%;background-color: rgba(100, 100, 100, 0.3);">
+<div style="width:100%;height:100%;background-color: rgba(80, 80, 80, 0.3);">
 <br>
 <br>
 <br>
 <br>
 <br>
-<div class="shadow"><h2>ゴルフ施設でのDrone活用</h2></div>
+<div class="shadow"><h3>ゴルフ施設でのDrone活用</h3></div>
 <h4>2015.4.16 ATGS ご提案資料</h4>
 </div>
 </div>
