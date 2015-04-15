@@ -102,7 +102,7 @@ http://dev.dji.com/
 
 ---
 
-<div class="title">撮影プラン</div>
+<div class="title"></div>
 <p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービスをご提案。</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
