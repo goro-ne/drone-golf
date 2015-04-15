@@ -95,8 +95,8 @@ Note:
 <div class="shadow">
 </div>
 
-<div class="shadow" style="width:120%;">
-![](images/galaxy-visitor6.jpg)
+<div class="shadow">
+![](images/galaxy-visitor6-rtf.jpg)
 </div>
 
 <div class="shadow" style="width:60%;">
