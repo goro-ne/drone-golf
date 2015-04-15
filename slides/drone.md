@@ -43,7 +43,7 @@ Note:
 ![](images/parrot-bebop-drone.jpg)
 </div>
 
-<div class="shadow" style="width:60%;">
+<div class="shadow" style="width:70%;">
 ![](images/parrot-bebop-skycontroller.jpg)
 </div>
 <p style="font-size:small;">ヘッドマウントディスプレイを接続し、ＶＲ体験ツアーも可能。</p>
@@ -53,7 +53,7 @@ Note:
 <div class="left">
 <li>特徴：人気モデル AR Droneの後継機。約40分のフルHD動画を撮影、
 iPad用スカイコントローラーとセットで飛行距離が最大2kmまで拡大可能。
-リアルタイム撮影ができる。</li>
+GPS搭載で自動操縦可能(±2m)</li>
 <li>販売元：Parrot</li>
 <li>発売日：2015年4月30日（Amazon）</li>
 <li>実売価格：141,372円 (スカイコントローラーセット)、追加バッテリー1個3,299円</li>
