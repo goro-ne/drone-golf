@@ -109,7 +109,7 @@ http://dev.dji.com/
 </div>
 
 <div class="shadow">
-![](images/golf-app.jpg)
+<img src="images/golf-app.jpg" style="width:50%;"/>
 </div>
 </div>
 
