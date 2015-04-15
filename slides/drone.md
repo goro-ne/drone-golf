@@ -99,9 +99,10 @@ Note:
 ![](images/galaxy-visitor6-rtf.jpg)
 </div>
 
-<div class="shadow" style="width:60%;">
+<div class="shadow" style="width:50%;">
 ![](images/galaxy-visitor6-controller.jpg)
 </div>
+<p style="font-size:small;">　RTFは送信機やバッテリーも含む完成品（Ready to Flyの略）</p>
 
 </div>
 
@@ -114,7 +115,6 @@ Note:
 （RTF版 バッテリー1個+コントローラーセット、追加バッテリー1個2,527円）
 <li style="color:green">とにかく安い。激しい飛行向け。</li>
 <li style="color:red">バッテリー1個の飛行時間は約7分。</li>
-<p style="font-size:small;">RTFは送信機やバッテリーも含む完成品（Ready to Flyの略）</p>
 </div>
 
 </div>
