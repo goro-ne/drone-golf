@@ -70,7 +70,7 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 
 ---
 
-<div class="title">Phantom 3 Advance/Professional</div>
+<div class="title">Phantom 3</div>
 
 <div class="frame">
 
