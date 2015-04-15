@@ -14,7 +14,6 @@
 
 
 
-
 ---
 
 <div class="title">空飛ぶアクションカメラ撮影プラン（記念コンペ向け）</div>
@@ -185,9 +184,9 @@ aaa
 <div class="title">安全性に関する対応</div>
 
 <div class="frame">
-
-<li style="color:orange;">人の真上を飛行させるのは墜落の可能性があるため危険。</li>
-<li style="color:orange;">訓練したスタッフに操縦させるのが無難。</li>
+<li style="color:orange;">Wi-Fiが頻繁に途切れノーコンになる問題点も指摘される。</li>
+<li style="color:orange;">墜落の可能性があるため頭上を飛行させるのは危険。</li>
+<li style="color:orange;">訓練されたスタッフに操縦させるのが無難。</li>
 
 <li style="font-size:midium;">ドローン保険：
 　東京海上日動火災保険は、無人ヘリが事故を起こした場合などに損害をカバーする総合保険を４月に発売する。
