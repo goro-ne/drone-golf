@@ -40,8 +40,13 @@ Note:
 </div>
 
 <div class="shadow">
+![](images/parrot-bebop-drone.jpg)
+</div>
+
+<div class="shadow" style="width:50%;">
 ![](images/skycontroller.jpg)
 </div>
+
 </div>
 
 <div class="left">
