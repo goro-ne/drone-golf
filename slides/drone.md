@@ -51,8 +51,10 @@ iPad用スカイコントローラーとセットで飛行距離が最大2kmま�
 <li>販売元：Parrot</li>
 <li>発売日：2015年4月30日（Amazon）</li>
 <li>実売価格：141,372円 (スカイコントローラーセット)</li>
+<li style="color:green">技適をクリア</li>
+<li style="color:green">バッテリー2個で飛行時間は約22分 (1個3,299円 Phantom3の2倍のコストパフォーマンス)</li>
 <li style="color:green">ボディに接触があると緊急停止機能が作動する「安全設計」</li>
-<li style="color:red">バッテリーあたりの飛行時間は約11分。水には弱いので、海や川の近くでの利用に注意。</li>
+<li style="color:red">水には弱いので、海や川の近くでの利用に注意。</li>
 </div>
 
 </div>
@@ -68,7 +70,7 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 
 ---
 
-<div class="title">Bebop Drone</div>
+<div class="title">Phantom 3 Advance/Professional</div>
 
 <div class="frame">
 
@@ -77,26 +79,32 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 </div>
 
 <div class="shadow">
-![](images/skycontroller.jpg)
+![](images/DJI-PILOT-APP.png)
 </div>
 </div>
 
 <div class="left">
-<li>特徴：人気モデル AR Droneの後継機。約40分のフルHD動画を撮影、
-iPad用スカイコントローラーとセットで飛行距離が最大2kmまで拡大可能。リアルタイム撮影ができる。</li>
+<li>特徴：上位モデルは4Kカメラ搭載。飛行距離が最大2kmまで拡大可能。リアルタイム撮影ができる。</li>
 <br>
-<li>販売元：Parrot</li>
+<li>販売元：DJI</li>
 <li>発売日：2015年4月30日（Amazon）</li>
-<li>実売価格：141,372円 (スカイコントローラーセット)</li>
-<li style="color:green">ボディに接触があると緊急停止機能が作動する「安全設計」</li>
-<li style="color:red">バッテリー2個で飛行時間は約22分。水に弱いので、海や川の近くでの利用に注意。</li>
+<li>実売価格：139,800円 (Advance/フルHDカメラ搭載モデル)</li>
+<li>実売価格：188,000円 (Professional/Sony製4Kカメラ搭載モデル+空撮保険+予備バッテリ)</li>
+<li style="color:green">バッテリー2個で飛行時間は約44分。(1個19,800円)</li>
+<li style="color:red">プロペラガードがないため接触に注意。</li>
 </div>
 
 </div>
 
 Note: 説明文
-http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
+http://dev.dji.com/
 
-補足：フルHD（1,080 ☓ 1,920）での動画撮影が可能な1,400万画素の魚眼レンズ付きカメラを標準搭載。
-内臓の8GBフラッシュメモリに40分の撮影した動画（H.264のMPEG4）を保存、デバイスに転送が可能に可能。
-写真も高画質の解像度4,096 ☓ 3,072（jpeg、RAW、DNG）で撮影できる。
+
+---
+
+<div class="title">撮影プラン</div>
+<p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービスをご提案。</p>
+
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+
+Note:
