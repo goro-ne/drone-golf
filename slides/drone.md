@@ -41,7 +41,9 @@
 ---
 
 ### New Drone
+
 #### 最新ドローンによる撮影映像をご紹介
+
 
 ---
 
@@ -67,7 +69,6 @@
 ---
 
 <div class="title">Bebop drone</div>
-<p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービスをご提案。</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
@@ -100,10 +101,8 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 
 ---
 
-<div class="title">空飛ぶアションカメラ撮影プラン Phantom 3</div>
-<p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービスをご提案。</p>
+<div class="title">Phantom 3 Professional</div>
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/7jJn7uvqgc0?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
-
 
 Note:
 
@@ -146,6 +145,7 @@ http://dev.dji.com/
 ---
 
 ### Development Kit
+
 #### 組み込みアプリの開発例
 
 ---
