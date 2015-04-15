@@ -1,5 +1,5 @@
 
-<div style="virtical-align:middle;height:500px;background-size:100%;background-image:url('images/golf-course.jpg');
+<div style="virtical-align:middle;height:500px;background-size:100%;background-image:url('images/barefoot-resort-love.jpg');
 ">
 <div style="width:100%;height:100%;background-color: rgba(100, 100, 100, 0.3);">
 <br>
