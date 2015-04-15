@@ -45,6 +45,56 @@
 最新ドローンによる撮影映像をご紹介
 
 
+---
+
+<div class="title">Galaxy Visitor 6</div>
+
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/NxOauxBZ-xY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+
+Note:
+
+
+---
+
+<div class="title">Galaxy Visitor 6の特徴</div>
+
+<div class="frame">
+
+<div class="right">
+<div class="shadow">
+</div>
+
+<div class="shadow">
+![](images/galaxy-visitor6.jpg)
+</div>
+
+<div class="shadow" style="width:70%;">
+![](images/galaxy-visitor6-controller.jpg)
+</div>
+
+</div>
+
+<div class="left">
+<li>特徴：低価格モデルのドローン。開発キットは提供されていないため
+お手軽なレースなどのイベントでの利用が考えられる。</li>
+<li>販売元：Nine Eagles</li>
+<li>発売日：2014年11月9日（Amazon）</li>
+<li>実売価格：25,725円</li>
+（コントローラーセット、追加バッテリー1個2,527円）
+<li style="color:green">ボディに接触があると緊急停止機能が作動する「安全設計」</li>
+<li style="color:red">バッテリー1個の飛行時間は約7分。</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+http://www.hitecrcd.co.jp/products/nineeagles/galaxyvisitor6/index.html
+
+
+
+
+
 
 ---
 
