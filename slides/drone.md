@@ -44,7 +44,7 @@ Note:
 </div>
 
 <div class="shadow" style="width:50%;">
-![](images/skycontroller.jpg)
+![](images/parrot-bebop-skycontroller.jpg)
 </div>
 
 </div>
