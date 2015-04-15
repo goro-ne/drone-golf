@@ -70,7 +70,7 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 
 ---
 
-<div class="title">Phantom 3</div>
+<div class="title">Phantom 3 Professional</div>
 
 <div class="frame">
 
@@ -88,7 +88,7 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 <br>
 <li>販売元：DJI</li>
 <li>発売日：2015年4月30日（Amazon）</li>
-<li>実売価格：188,000円 (Professional/Sony製4Kカメラ搭載モデル+空撮保険+予備バッテリ)、
+<li>実売価格：188,000円 (Sony製4Kカメラ搭載モデル+空撮保険+予備バッテリ)、
 追加バッテリー1個19,800円</li>
 <li style="color:green">バッテリー2個で飛行時間は約44分。</li>
 <li style="color:red">プロペラガードがないため接触に注意。</li>
