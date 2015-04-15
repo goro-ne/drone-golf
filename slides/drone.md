@@ -39,9 +39,13 @@
 
 
 
-
 ---
 
+### New Drone
+
+最新ドローンによる撮影映像をご紹介
+
+---
 
 
 <div class="title">Bebop Drone</div>
@@ -62,17 +66,6 @@
 <p style="font-size:small;">　ヘッドマウントディスプレイを接続し、ＶＲ体験ツアーも可能。</p>
 
 </div>
-
-
----
-
-<div class="title">Bebop drone</div>
-
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
-
-Note:
-
----
 
 <div class="left">
 <li>特徴：人気モデル AR Droneの後継機。約40分のフルHD動画を撮影、
@@ -97,10 +90,12 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 写真も高画質の解像度4,096 ☓ 3,072（jpeg、RAW、DNG）で撮影できる。
 
 
+
 ---
 
-<div class="title">Phantom 3 Professional</div>
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/7jJn7uvqgc0?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+<div class="title">Bebop drone</div>
+
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 Note:
 
@@ -139,6 +134,14 @@ Note:
 
 Note: 説明文
 http://dev.dji.com/
+
+---
+
+<div class="title">Phantom 3 Professional</div>
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/7jJn7uvqgc0?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+
+Note:
+
 
 ---
 
