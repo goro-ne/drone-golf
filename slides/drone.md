@@ -100,9 +100,26 @@ http://dev.dji.com/
 
 ---
 
-<div class="title"></div>
-<p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービスをご提案。</p>
+<div class="title">GPSコース表示アプリ</div>
 
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+<div class="frame">
 
-Note:
+<div class="right">
+<div class="shadow">
+</div>
+
+<div class="shadow">
+![](images/golf-app.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>特徴：コース上に打った位置を記録し、全員分の面倒なスコアを集計するアプリをご提案。</li>
+<br>
+<li>備考：Drone向けコントローラのiPadをサーバとしてプレイデータを収集。
+個人のiPhone GPSと連動するアプリを開発。</li>
+</div>
+
+</div>
+
+Note: 説明文
