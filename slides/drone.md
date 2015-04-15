@@ -16,8 +16,8 @@
 
 ---
 
-<div class="title">ＶＲ運転カートゲーム</div>
-<p style="color:RoyalBlue">空撮視点からのカート運転ゲームを開催。</p>
+<div class="title">空撮カートゲーム</div>
+<p style="color:RoyalBlue">空撮視点からゴルフカートを操作する進感覚ゲームを開催。</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/UNHhfykh5Qc?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
