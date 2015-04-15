@@ -50,9 +50,9 @@ iPad用スカイコントローラーとセットで飛行距離が最大2kmま�
 <br>
 <li>販売元：Parrot</li>
 <li>発売日：2015年4月30日（Amazon）</li>
-<li>実売価格：141,372円 (スカイコントローラーセット)</li>
+<li>実売価格：141,372円 (スカイコントローラーセット)、追加バッテリー1個3,299円</li>
 <li style="color:green">技適をクリア</li>
-<li style="color:green">バッテリー2個で飛行時間は約22分 (1個3,299円 Phantom3の2倍のコストパフォーマンス)</li>
+<li style="color:green">バッテリー2個で飛行時間は約22分</li>
 <li style="color:green">ボディに接触があると緊急停止機能が作動する「安全設計」</li>
 <li style="color:red">水には弱いので、海や川の近くでの利用に注意。</li>
 </div>
@@ -88,9 +88,9 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 <br>
 <li>販売元：DJI</li>
 <li>発売日：2015年4月30日（Amazon）</li>
-<li>実売価格：139,800円 (Advance/フルHDカメラ搭載モデル)</li>
-<li>実売価格：188,000円 (Professional/Sony製4Kカメラ搭載モデル+空撮保険+予備バッテリ)</li>
-<li style="color:green">バッテリー2個で飛行時間は約44分。(1個19,800円)</li>
+<li>実売価格：188,000円 (Professional/Sony製4Kカメラ搭載モデル+空撮保険+予備バッテリ)、
+追加バッテリー1個19,800円</li>
+<li style="color:green">バッテリー2個で飛行時間は約44分。</li>
 <li style="color:red">プロペラガードがないため接触に注意。</li>
 </div>
 
