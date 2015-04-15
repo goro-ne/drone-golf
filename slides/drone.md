@@ -100,7 +100,7 @@ http://dev.dji.com/
 
 ---
 
-<div class="title">GPSコース表示アプリ</div>
+<div class="title">GPSコース表示アプリa</div>
 
 <div class="frame">
 
