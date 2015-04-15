@@ -36,6 +36,37 @@
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/6zDDsX5xYcA?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
+---
+
+### Development Kit
+
+#### 組み込みアプリの開発例
+
+---
+
+<div class="title">GPSコースナビ 集計アプリ開発</div>
+
+<div class="frame">
+
+<div class="right">
+<div class="shadow">
+</div>
+
+<div class="shadow">
+<img src="images/golf-app.jpg" style="width:70%;"/>
+</div>
+</div>
+
+<div class="left">
+<li>特徴：コース上に打った位置を記録し、全員分の面倒なスコアを集計するアプリをご提案。</li>
+<br>
+<li>備考：DroneのiPadコントローラをサーバとしてプレイデータを収集。
+個人のiPhone GPSと連動するアプリを想定。</li>
+</div>
+
+</div>
+
+Note: 説明文
 
 
 ---
@@ -69,7 +100,7 @@ Note:
 </div>
 
 <div class="shadow" style="width:70%;">
-![](images/galaxy-visitor6-controller.jpg)
+![](images/galaxy-visitor-controller.jpg)
 </div>
 
 </div>
@@ -193,41 +224,6 @@ Note:
 
 Note: 説明文
 http://dev.dji.com/
-
-
----
-
-### Development Kit
-
-#### 組み込みアプリの開発例
-
----
-
-<div class="title">GPSコースナビ 集計アプリ開発</div>
-
-<div class="frame">
-
-<div class="right">
-<div class="shadow">
-</div>
-
-<div class="shadow">
-<img src="images/golf-app.jpg" style="width:70%;"/>
-</div>
-</div>
-
-<div class="left">
-<li>特徴：コース上に打った位置を記録し、全員分の面倒なスコアを集計するアプリをご提案。</li>
-<br>
-<li>備考：DroneのiPadコントローラをサーバとしてプレイデータを収集。
-個人のiPhone GPSと連動するアプリを想定。</li>
-</div>
-
-</div>
-
-Note: 説明文
-aaa
-
 
 
 ---
