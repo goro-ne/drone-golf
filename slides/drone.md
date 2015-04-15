@@ -57,10 +57,9 @@ GPS搭載で自動操縦も可能（誤差±2m）</li>
 <li>販売元：Parrot</li>
 <li>発売日：2015年4月30日（Amazon）</li>
 <li>実売価格：141,372円</li>
-（スカイコントローラーセット、追加バッテリー1個3,299円）
-<li style="color:green">バッテリー2個で飛行時間は約22分</li>
+（バッテリー2個+スカイコントローラーセット、追加バッテリー1個3,299円）
 <li style="color:green">ボディに接触があると緊急停止機能が作動する「安全設計」</li>
-<li style="color:red">水には弱いので、海や川の近くでの利用に注意。</li>
+<li style="color:red">バッテリー1個で飛行時間は約11分。水には弱いので、海や川の近くでの利用に注意。</li>
 </div>
 
 </div>
@@ -121,7 +120,7 @@ http://dev.dji.com/
 
 ---
 
-<div class="title">GPSコース表示 集計アプリ開発</div>
+<div class="title">GPSコースナビ 集計アプリ開発</div>
 
 <div class="frame">
 
