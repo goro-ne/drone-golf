@@ -43,9 +43,10 @@ Note:
 ![](images/parrot-bebop-drone.jpg)
 </div>
 
-<div class="shadow" style="width:50%;">
+<div class="shadow" style="width:60%;">
 ![](images/parrot-bebop-skycontroller.jpg)
 </div>
+<li style="color:green">ヘッドマウントディスプレイを接続し、ＶＲ体験ツアーも可能。</li>
 
 </div>
 
@@ -58,7 +59,6 @@ iPad用スカイコントローラーとセットで飛行距離が最大2kmま�
 <li>実売価格：141,372円 (スカイコントローラーセット)、追加バッテリー1個3,299円</li>
 <li style="color:green">バッテリー2個で飛行時間は約22分</li>
 <li style="color:green">ボディに接触があると緊急停止機能が作動する「安全設計」</li>
-<li style="color:green">ヘッドマウントディスプレイを接続し、ＶＲ体験ツアーも可能。</li>
 <li style="color:red">水には弱いので、海や川の近くでの利用に注意。</li>
 </div>
 
