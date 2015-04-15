@@ -71,7 +71,7 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 
 <div class="title">空飛ぶアションカメラ撮影プラン Phantom 3</div>
 <p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービスをご提案。</p>
-<iframe width="920" height="480" src="https://www.youtube.com/embed/7jJn7uvqgc0?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/7jJn7uvqgc0?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 
 Note:
