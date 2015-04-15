@@ -150,7 +150,7 @@ aaa
 
 ---
 
-<div class="title">安全性に対する対応</div>
+<div class="title">安全性に関する対応</div>
 
 <div class="frame">
 
