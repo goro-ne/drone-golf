@@ -100,7 +100,7 @@ http://dev.dji.com/
 
 ---
 
-<div class="title">GPSコース表示アプリa</div>
+<div class="title">GPSコース表示 集計アプリ開発</div>
 
 <div class="frame">
 
@@ -109,7 +109,7 @@ http://dev.dji.com/
 </div>
 
 <div class="shadow">
-<img src="images/golf-app.jpg" style="width:50%;"/>
+<img src="images/golf-app.jpg" style="width:70%;"/>
 </div>
 </div>
 
