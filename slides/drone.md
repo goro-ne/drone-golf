@@ -45,10 +45,21 @@
 
 最新ドローンによる撮影映像をご紹介
 
+
+
+---
+
+<div class="title">Bebop drone</div>
+
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+
+Note:
+
+
 ---
 
 
-<div class="title">Bebop Drone</div>
+<div class="title">Bebop droneの特徴</div>
 
 <div class="frame">
 
@@ -90,19 +101,17 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 写真も高画質の解像度4,096 ☓ 3,072（jpeg、RAW、DNG）で撮影できる。
 
 
-
 ---
 
-<div class="title">Bebop drone</div>
-
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+<div class="title">Phantom 3 Professional</div>
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/7jJn7uvqgc0?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 Note:
 
 
 ---
 
-<div class="title">Phantom 3 Professional</div>
+<div class="title">Phantom 3 Professionalの特徴</div>
 
 <div class="frame">
 
@@ -134,13 +143,6 @@ Note:
 
 Note: 説明文
 http://dev.dji.com/
-
----
-
-<div class="title">Phantom 3 Professional</div>
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/7jJn7uvqgc0?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
-
-Note:
 
 
 ---
