@@ -17,7 +17,7 @@
 
 ---
 
-<div class="title">空飛ぶアクションカメラ撮影プラン（コンペ向け）</div>
+<div class="title">空飛ぶアクションカメラ撮影プラン（記念コンペ向け）</div>
 <p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービス</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
@@ -25,14 +25,14 @@
 
 ---
 
-<div class="title">空撮カートゲーム</div>
+<div class="title">空撮カートゲーム（若者レジャー向け 施設利用）</div>
 <p style="color:RoyalBlue">空撮視点からゴルフカートを操作する進感覚ゲームを開催。</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/UNHhfykh5Qc?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 ---
 
-<div class="title">スターウォーズ・ドローンチェイシング</div>
+<div class="title">スターウォーズ・ドローンチェイシング（若者レジャー向け 施設利用）</div>
 <p style="color:RoyalBlue">低空飛行でエキサイティングなドローンレースを開催。</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/6zDDsX5xYcA?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
