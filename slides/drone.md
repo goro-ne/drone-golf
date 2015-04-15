@@ -78,7 +78,7 @@ Note: 説明文
 
 ---
 
-<div class="title">Galaxy Visitor 6</div>
+<div class="title">Galaxy Visitor 6 RTF</div>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/NxOauxBZ-xY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
@@ -87,7 +87,7 @@ Note:
 
 ---
 
-<div class="title">Galaxy Visitor 6の特徴</div>
+<div class="title">Galaxy Visitor 6 RTFの特徴</div>
 
 <div class="frame">
 
@@ -96,7 +96,7 @@ Note:
 </div>
 
 <div class="shadow">
-![](images/galaxy-visitor6-rtf.jpg)
+![](images/galaxy-visitor6-outdoor.jpg)
 </div>
 
 <div class="shadow" style="width:50%;">
@@ -107,12 +107,12 @@ Note:
 </div>
 
 <div class="left">
-<li>特徴：低価格モデルのドローン。開発キットは提供されていないため、
+<li>特徴：小型低価格モデルのドローン。開発キットは提供されていないため、
 お手軽なレースなどのイベントでの利用が考えられる。飛行距離は約100m。</li>
 <li>販売元：Nine Eagles</li>
 <li>発売日：2014年11月9日（Amazon）</li>
 <li>実売価格：25,725円</li>
-（RTF版 バッテリー1個+コントローラーセット、追加バッテリー1個2,527円）
+（バッテリー1個+コントローラーセット、追加バッテリー1個2,527円）
 <li style="color:green">とにかく安い。激しい飛行向け。</li>
 <li style="color:red">バッテリー1個の飛行時間は約7分。</li>
 </div>
