@@ -47,12 +47,13 @@ Note:
 <div class="left">
 <li>特徴：人気モデル AR Droneの後継機。約40分のフルHD動画を撮影、
 iPad用スカイコントローラーとセットで飛行距離が最大2kmまで拡大可能。
-リアルタイム撮影ができる。Oculus Rift などのHMDを接続し、ＶＲ体験ツアーも可能。</li>
+リアルタイム撮影ができる。</li>
 <li>販売元：Parrot</li>
 <li>発売日：2015年4月30日（Amazon）</li>
 <li>実売価格：141,372円 (スカイコントローラーセット)、追加バッテリー1個3,299円</li>
 <li style="color:green">バッテリー2個で飛行時間は約22分</li>
 <li style="color:green">ボディに接触があると緊急停止機能が作動する「安全設計」</li>
+<li style="color:green">ヘッドマウントディスプレイを接続し、ＶＲ体験ツアーも可能。</li>
 <li style="color:red">水には弱いので、海や川の近くでの利用に注意。</li>
 </div>
 
