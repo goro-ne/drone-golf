@@ -38,14 +38,16 @@
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/6zDDsX5xYcA?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 
+
 ---
 
 ### New Drone
 
-#### 最新ドローンによる撮影映像をご紹介
-
+最新ドローンによる撮影映像をご紹介
 
 ---
+
+
 
 <div class="title">Bebop Drone</div>
 
@@ -65,6 +67,7 @@
 <p style="font-size:small;">　ヘッドマウントディスプレイを接続し、ＶＲ体験ツアーも可能。</p>
 
 </div>
+
 
 ---
 
