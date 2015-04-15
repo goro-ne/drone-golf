@@ -7,7 +7,8 @@
 <br>
 <br>
 <br>
-<div class="shadow"><h3><strong>ゴルフ施設でのDrone活用</strong></h3></div>
+<div class="shadow"><h3><strong>ゴルフ施設でのDrone活用例</strong></h3></div>
+<br>
 <h4>2015.4.16 ATGS ご提案資料</h4>
 </div>
 </div>
