@@ -8,7 +8,7 @@
 <br>
 <br>
 <div class="shadow"><h3>GolfクラブのDroneアプリ活用</h></div>
-<h4></h4>
+<h4>2015.4.16 ATGS</h4>
 </div>
 </div>
 
