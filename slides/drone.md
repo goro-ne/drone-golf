@@ -88,6 +88,10 @@ Note:
 </div>
 
 <div class="shadow">
+![](images/dji-phantom3.jpg)
+</div>
+
+<div class="shadow" style="width:50%;">
 ![](images/DJI-PILOT-APP.png)
 </div>
 </div>
