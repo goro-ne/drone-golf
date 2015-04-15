@@ -95,11 +95,11 @@ Note:
 <div class="shadow">
 </div>
 
-<div class="shadow">
+<div class="shadow" style="width:120%;">
 ![](images/galaxy-visitor6.jpg)
 </div>
 
-<div class="shadow" style="width:70%;">
+<div class="shadow" style="width:60%;">
 ![](images/galaxy-visitor6-controller.jpg)
 </div>
 
