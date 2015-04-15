@@ -48,7 +48,7 @@
 
 ---
 
-<div class="title">Bebop drone</div>
+<div class="title">Bebop Drone</div>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
@@ -58,7 +58,7 @@ Note:
 ---
 
 
-<div class="title">Bebop droneの特徴</div>
+<div class="title">Bebop Droneの特徴</div>
 
 <div class="frame">
 
