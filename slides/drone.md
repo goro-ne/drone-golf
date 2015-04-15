@@ -18,16 +18,16 @@
 <div class="title">空飛ぶアクションカメラ撮影プラン</div>
 <p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービスをご提案。</p>
 
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
-
-Note:
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 ---
 
-<div class="title">空飛ぶアクションカメラ撮影プラン</div>
+<div class="title">空飛ぶアクションカメラ撮影プラン Bebop drone</div>
 <p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービスをご提案。</p>
 
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/WUpmPUcnuBY?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+
+Note:
 
 ---
 
@@ -66,6 +66,15 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 内臓の8GBフラッシュメモリに40分の撮影した動画（H.264のMPEG4）を保存、デバイスに転送が可能に可能。
 写真も高画質の解像度4,096 ☓ 3,072（jpeg、RAW、DNG）で撮影できる。
 
+
+---
+
+<div class="title">空飛ぶアクションカメラ撮影プラン Phantom 3</div>
+<p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービスをご提案。</p>
+
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/v=9eTrnu42i_I?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+
+Note:
 
 
 ---
