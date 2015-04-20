@@ -186,7 +186,7 @@ http://www.gizmodo.jp/2015/03/parrot_bebop_drone.html
 
 ---
 
-<div class="title">Phantom 3 Professional</div>
+<div class="title">Phantom 3</div>
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/7jJn7uvqgc0?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 Note:
@@ -194,7 +194,7 @@ Note:
 
 ---
 
-<div class="title">Phantom 3 Professionalの特徴</div>
+<div class="title">Phantom 3の特徴</div>
 
 <div class="frame">
 
@@ -215,10 +215,10 @@ Note:
 <li>特徴：上位モデルは4Kカメラ搭載。ストリーミング配信にも対応。
 飛行距離が最大2km、連続飛行時間が22分。プロ向けの空撮でも使われる高い性能。</li>
 <li>販売元：DJI</li>
-<li>発売日：2015年5月20日（Amazon）入荷延期</li>
+<li>発売日：2015年5月20日（Amazon）</li>
 <li>実売価格：188,000円 (Professinal)</li>
 （Sony製4Kカメラ搭載+予備バッテリ+空撮保険、追加バッテリー1個19,800円）
-<li style="color:light-grey;">実売価格：153,000円 (Advanced)</li>
+<li style="color:#888;">実売価格：153,000円 (Advanced)</li>
 （フルHDカメラ搭載+予備バッテリ+空撮保険、追加バッテリー1個19,800円）
 <li style="color:green">バッテリー1個の飛行時間は約22分。
 カメラ台座の自動制御により、映像を平行に維持することが可能。
