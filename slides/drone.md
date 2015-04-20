@@ -295,8 +295,9 @@ Note:
 <li>販売元：3D Robotics</li>
 <li>発売日：2015年5月（日本未定）</li>
 <li>実売価格：約188,000円</li>
-<span style="color:#888;">（カメラ取り付け用ジンバルセット、GoProカメラ別途購入が必要）</span>
+<span style="color:#888;">（カメラなし、取り付け用ジンバルセット）</span>
 <li style="color:green">カスタマイズ性が高く、アクセサリーベイで拡張ハードウェアを搭載可能。GoProをDroneに接続し、操作可能。</li>
+<li style="color:red">GoProカメラの別途購入が必要。</li>
 <li style="color:red">カメラ搭載時の飛行時間は約20分。</li>
 </div>
 
