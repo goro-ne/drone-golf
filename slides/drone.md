@@ -305,3 +305,6 @@ Note:
 Note: 説明文
 3D RoboticsからSolo登場―誰でもプロ級撮影が可能なGoPro利用の最強空撮ドローン
 http://jp.techcrunch.com/2015/04/14/20150413the-3d-robotics-solo/
+
+世界初の「スマートドローン」をうたう現状最強のクアッドコプター「3DR Solo」が登場、どこがどうすごいのか？
+http://gigazine.net/news/20150414-3dr-solo/
