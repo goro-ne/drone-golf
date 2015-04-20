@@ -282,7 +282,7 @@ Note:
 <div class="shadow">
 ![](images/3d-robotics-solo.jpg)
 </div>
-<div class="shadow" style="width:50%;">
+<div class="shadow" style="width:70%;">
 ![](images/solo_black_controller.jpg)
 </div>
 
