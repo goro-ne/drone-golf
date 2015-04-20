@@ -250,4 +250,58 @@ http://dev.dji.com/
 </div>
 
 Note: 説明文
-aaa
+
+
+---
+
+### New Topics
+
+####最新トピックス 2015.4.20
+
+
+---
+
+<div class="title">3DR Solo</div>
+
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/SP3Dgr9S4pM?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+
+Note:
+
+
+---
+
+
+<div class="title">3DR Soloの特徴</div>
+
+<div class="frame">
+
+<div class="right">
+<div class="shadow">
+</div>
+
+<div class="shadow">
+![](images/3d-robotics-solo.jpg)
+</div>
+
+<div class="shadow" style="width:70%;">
+![](images/parrot-bebop-skycontroller.jpg)
+</div>
+<p style="font-size:small;">　ヘッドマウントディスプレイを接続し、ＶＲ体験ツアーも可能。</p>
+
+</div>
+
+<div class="left">
+<li>特徴：人気アクションカメラ GoProの開発元から発売。サードパーティ製の拡張ハードウェア接続可能でカスタマイズ性が高い。VRヘッドマウント、ストリーミング配信に対応。
+最大飛行時間 約20糞。飛行距離 約800m。GoProをアプリケーションから操作できる。</li>
+<li>販売元：3D Robotics</li>
+<li>発売日：日本発売・未定（Amazon）</li>
+<li>実売価格：未定</li>
+<li style="color:green">カスタマイズ性が高く、アクセサリーベイで拡張ハードウェアを搭載可能。GoProをDroneに接続し、操作可能。</li>
+<li style="color:red">カメラ搭載時の飛行時間は約20分。</li>
+</div>
+
+</div>
+
+Note: 説明文
+3D RoboticsからSolo登場―誰でもプロ級撮影が可能なGoPro利用の最強空撮ドローン
+http://jp.techcrunch.com/2015/04/14/20150413the-3d-robotics-solo/
