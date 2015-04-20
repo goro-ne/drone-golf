@@ -256,7 +256,7 @@ Note: 説明文
 
 ### New Topics
 
-####最新トピックス 2015.4.20
+#### 最新トピックス (2015.4.20)
 
 
 ---
@@ -282,11 +282,6 @@ Note:
 <div class="shadow">
 ![](images/3d-robotics-solo.jpg)
 </div>
-
-<div class="shadow" style="width:70%;">
-![](images/parrot-bebop-skycontroller.jpg)
-</div>
-<p style="font-size:small;">　ヘッドマウントディスプレイを接続し、ＶＲ体験ツアーも可能。</p>
 
 </div>
 
