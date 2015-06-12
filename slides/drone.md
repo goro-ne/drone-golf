@@ -31,7 +31,7 @@
 ---
 
 <div class="title">ゴルフ施設向けサービス</div>
-<p style="color:RoyalBlue">セルフプレイユーザ向けの遅延監視システム</p>
+<p style="color:RoyalBlue">キャディなしの低価格セルフプレイの遅延監視システム</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
