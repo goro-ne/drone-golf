@@ -194,7 +194,7 @@ systemctl restart nginx
 git version 1.8.3.1
 
 # git config --global user.name "hayao56"
-# git config --global user.email "hayao56@gmail.com" 
+# git config --global user.email "hayao56@gmail.com"
 
 ```
 
@@ -391,7 +391,7 @@ index.html
 
 ---
 
-### Gir1レポジトリにコミット
+### Gitレポジトリにコミット
 
 
 ```
@@ -621,7 +621,3 @@ if( window.location.search.match( /print-pdf/gi ) ) {
 }
 </script>
 ```
-
-
-
-

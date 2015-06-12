@@ -13,12 +13,6 @@
 </div>
 </div>
 
----
-
-<div class="title">救急医療</div>
-<p style="color:RoyalBlue">ドローンが救急医療を変える！ AED搭載の救急救命ドローン</p>
-
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/y-rEI4bezWc&feature?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 
 ---
