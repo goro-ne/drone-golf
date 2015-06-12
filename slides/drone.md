@@ -7,15 +7,14 @@
 <br>
 <br>
 <br>
-<div class="shadow"><h3><strong>ゴルフ施設でのDrone活用例</strong></h3></div>
+<div class="shadow"><h3><strong>ドローン活用事例とビジネス展開</strong></h3></div>
 <br>
-<h4>2015.4.16 ATGS ご提案資料</h4>
 </div>
 </div>
 
 ---
 
-<div class="title">救急医療</div>
+<div class="title">救急医療サービス（海外）</div>
 <p style="color:RoyalBlue">ドローンが救急医療を変える！ AED搭載の救急救命ドローン</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/y-rEI4bezWc?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
@@ -23,36 +22,29 @@
 
 ---
 
-<div class="title">空飛ぶアクションカメラ撮影プラン（記念コンペ向け）</div>
-<p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービス</p>
-
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
-
-
----
-
-<div class="title">スターウォーズ・ドローンチェイシング（若者レジャー向け）</div>
-<p style="color:RoyalBlue">低空飛行のエキサイティングなドローンレースを開催。</p>
+<div class="title">レジャー施設向けサービス</div>
+<p style="color:RoyalBlue">低空飛行のエキサイティングなドローンレースを開催</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/6zDDsX5xYcA?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
+
 ---
 
+<div class="title">ゴルフ施設向けサービス</div>
+<p style="color:RoyalBlue">セルフプレイユーザ向けの遅延監視システム</p>
 
-<div class="title">空撮カートゲーム（若者レジャー向け）</div>
-<p style="color:RoyalBlue">空撮視点からゴルフカートを操作する新感覚イベント開催。</p>
-
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/UNHhfykh5Qc?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 ---
 
 ### Development Kit
 
-#### 組み込みアプリの開発例
+#### ドローン組み込みアプリケーションの開発例
 
 ---
 
-<div class="title">GPSコースナビ 集計アプリ開発</div>
+<div class="title">ゴルフ施設向け開発案件</div>
+<p style="color:RoyalBlue">GPSコースナビゲーションシステムを提案中</p>
 
 <div class="frame">
 
@@ -66,6 +58,10 @@
 </div>
 
 <div class="left">
+<li>GPSを搭載したゴルフボールで、コース上の位置を表示。</li>
+<li>コース外にボールが飛んでいった場合、打ち直しとなるか判定が微妙となる。
+GPSの位置情報でドローンを自立飛行させ、内蔵カメラでOBになったかどうかの確認を行う。</LI>
+
 <li>特徴：コース上に打った位置を記録し、全員分の面倒なスコアを集計するアプリをご提案。</li>
 <br>
 <li>備考：DroneのiPadコントローラをサーバとしてプレイデータを収集。
