@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-<div class="shadow"><h3><strong>ドローン活用事例とビジネス展開</strong></h3></div>
+<div class="shadow"><h3><strong>Droneの正しい活用とビジネス展開</strong></h3></div>
 <br>
 </div>
 </div>
@@ -30,7 +30,7 @@
 
 ---
 
-<div class="title">ゴルフ施設向けサービス（空撮オプション付き）</div>
+<div class="title">ゴルフ施設向けサービス（空撮オプション）</div>
 <p style="color:RoyalBlue">キャディなしの低価格セルフプレイの遅延監視サービス</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
