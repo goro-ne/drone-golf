@@ -16,13 +16,18 @@
 
 ---
 
-<div class="title"></div>
+<div class="title">ドローン自動追跡撮影システム</div>
 
 <li style="font-size:midium;">
 ユーザはコントローラを持ってコースに沿って歩行速度で移動する。
 </li>
+![](images/drone_control_aplication.jpg)
+<div style="width:1120;height:480">
+</div>
+
 <li style="font-size:midium;">
-コントローラに搭載したタブレットにアプリを組み込み、GPSの位置情報を取得する。 </li>
+コントローラに搭載したタブレットにアプリを組み込み<br>
+GPSの位置情報を取得する。 </li>
 </li>
 <li style="font-size:midium;">
 数分単位にトラッキングした位置情報をもとにドローンが自動で追跡し撮影する。
