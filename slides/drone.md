@@ -16,28 +16,21 @@
 
 ---
 
-### 概要
+<div class="title">概要</div>
+
+<li style="font-size:midium;">
+ユーザはコントローラを持ってコースに沿って歩行速度で移動する。 コントローラに搭載したタブレットにアプリを組み込み、GPSの位置情報を取得。 数分単位にトラッキングした位置情報を基に、ドローンが自動で追跡し撮影する。
+<br>
+</li>
+
+</div>
+
+Note: 説明文
 
 
 ---
 
-<div class="title">概要</div>
-<div class="frame">
-
-<div class="right">
-<div class="shadow">
-</div>
-<div class="shadow">
-![](images/drone_control_aplication.jpg)
-</div>
-
-<div class="shadow" style="width:50%;">
-</div>
-<p style="font-size:small;"></p>
-</div>
-
 <div class="left">
-<li>ユーザはコントローラを持ってコースに沿って歩行速度で移動する。 コントローラに搭載したタブレットにアプリを組み込み、GPSの位置情報を取得。 数分単位にトラッキングした位置情報を基に、ドローンが自動で追跡し撮影する。
 </li>
 <li></li>
 <li></li>
@@ -50,107 +43,7 @@
 
 Note: 説明文
 
----
 
-<div class="title"></div>
-<div class="frame">
-
-<div class="right">
-<div class="shadow">
-</div>
-<div class="shadow">
-![](images/drone_control_aplication.jpg)
-</div>
-
-<div class="shadow" style="width:50%;">
-![](images/galaxy-visitor6-controller.jpg)
-</div>
-<p style="font-size:small;"></p>
-</div>
-
-<div class="left">
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li style="color:green"></li>
-<li style="color:red"></li>
-</div>
-
-</div>
-
-Note: 説明文
-
----
-
-<div class="title"></div>
-<div class="frame">
-
-<div class="right">
-<div class="shadow">
-</div>
-<div class="shadow">
-![](images/drone_control_aplication.jpg)
-</div>
-
-<div class="shadow" style="width:50%;">
-![](images/galaxy-visitor6-controller.jpg)
-</div>
-<p style="font-size:small;"></p>
-</div>
-
-<div class="left">
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li style="color:green"></li>
-<li style="color:red"></li>
-</div>
-
-</div>
-
-Note: 説明文
-
-
----
-
-<div class="title"></div>
-<div class="frame">
-
-<div class="right">
-<div class="shadow">
-</div>
-<div class="shadow">
-![](images/drone_control_aplication.jpg)
-</div>
-
-<div class="shadow" style="width:50%;">
-![](images/galaxy-visitor6-controller.jpg)
-</div>
-<p style="font-size:small;"></p>
-</div>
-
-<div class="left">
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li style="color:green"></li>
-<li style="color:red"></li>
-</div>
-
-</div>
-
-Note: 説明文
-
-
-
-
-
-
-
----
 
 
 
