@@ -18,6 +18,7 @@
 
 <div class="title">ドローン自動追跡撮影システム</div>
 
+<div style="align:left">
 <li style="font-size:midium;">
 ユーザはコントローラを持ってコースに沿って歩行速度で移動する。
 </li>
@@ -30,12 +31,12 @@ GPSの位置情報を取得する。 </li>
 数分単位にトラッキングした位置情報をもとにドローンが自動で追跡し撮影する。
 </li>
 
-<table style="border:0;s">
+<table style="border:0;">
 <tr>
-<td class="shadow" style="width:20%;">
+<td class="shadow" style="width:30%;">
 ![](images/dji-phantom3.jpg)
 </td>
-<td class="shadow" style="width:100%;">
+<td class="shadow" style="width:200%;">
 ![](images/drone_control_aplication.jpg)
 </td>
 </tr>
