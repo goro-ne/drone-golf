@@ -7,188 +7,46 @@
 <br>
 <br>
 <br>
-<div class="shadow"><h3><strong>ドローン自動追跡撮影システム</strong></h3></div>
+<div class="shadow"><h3><strong>ゴルフ施設でのDrone活用例</strong></h3></div>
 <br>
-<h4>2015.6.25 ATGS ご提案資料</h4>
+<h4>2015.4.16 ATGS ご提案資料</h4>
 </div>
 </div>
-
-
----
-
-### 概要
-
-
----
-
-<div class="title">概要</div>
-<div class="frame">
-
-<div class="right">
-<div class="shadow">
-</div>
-<div class="shadow">
-![](images/drone_control_aplication.jpg)
-</div>
-
-<div class="shadow" style="width:50%;">
-</div>
-<p style="font-size:small;"></p>
-</div>
-
-<div class="left">
-<li>ユーザはコントローラを持ってコースに沿って歩行速度で移動する。 コントローラに搭載したタブレットにアプリを組み込み、GPSの位置情報を取得。 数分単位にトラッキングした位置情報を基に、ドローンが自動で追跡し撮影する。
-</li>
-<li></li>
-<li></li>
-<li></li>
-<li style="color:green"></li>
-<li style="color:red"></li>
-</div>
-
-</div>
-
-Note: 説明文
-
----
-
-<div class="title"></div>
-<div class="frame">
-
-<div class="right">
-<div class="shadow">
-</div>
-<div class="shadow">
-![](images/drone_control_aplication.jpg)
-</div>
-
-<div class="shadow" style="width:50%;">
-![](images/galaxy-visitor6-controller.jpg)
-</div>
-<p style="font-size:small;"></p>
-</div>
-
-<div class="left">
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li style="color:green"></li>
-<li style="color:red"></li>
-</div>
-
-</div>
-
-Note: 説明文
-
----
-
-<div class="title"></div>
-<div class="frame">
-
-<div class="right">
-<div class="shadow">
-</div>
-<div class="shadow">
-![](images/drone_control_aplication.jpg)
-</div>
-
-<div class="shadow" style="width:50%;">
-![](images/galaxy-visitor6-controller.jpg)
-</div>
-<p style="font-size:small;"></p>
-</div>
-
-<div class="left">
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li style="color:green"></li>
-<li style="color:red"></li>
-</div>
-
-</div>
-
-Note: 説明文
-
-
----
-
-<div class="title"></div>
-<div class="frame">
-
-<div class="right">
-<div class="shadow">
-</div>
-<div class="shadow">
-![](images/drone_control_aplication.jpg)
-</div>
-
-<div class="shadow" style="width:50%;">
-![](images/galaxy-visitor6-controller.jpg)
-</div>
-<p style="font-size:small;"></p>
-</div>
-
-<div class="left">
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li style="color:green"></li>
-<li style="color:red"></li>
-</div>
-
-</div>
-
-Note: 説明文
-
-
-
-
 
 
 
 ---
 
+<div class="title">空飛ぶアクションカメラ撮影プラン（記念コンペ向け）</div>
+<p style="color:RoyalBlue">撮影スタッフが同行し、プレイを上空から撮影するサービス</p>
 
-
-
-
----
-
-<div class="title">救急医療サービス（海外）</div>
-<p style="color:RoyalBlue">ドローンが救急医療を変える！ AED搭載の救急救命ドローン</p>
-
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/y-rEI4bezWc?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 
 ---
 
-<div class="title">レジャー施設向けサービス</div>
-<p style="color:RoyalBlue">低空飛行のエキサイティングなドローンレースを開催</p>
+<div class="title">スターウォーズ・ドローンチェイシング（若者レジャー向け）</div>
+<p style="color:RoyalBlue">低空飛行のエキサイティングなドローンレースを開催。</p>
 
 <iframe width="1120" height="480" src="https://www.youtube.com/embed/6zDDsX5xYcA?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
-
 ---
 
-<div class="title">ゴルフ施設向けサービス（空撮オプション）</div>
-<p style="color:RoyalBlue">キャディなしの低価格セルフプレイの遅延監視サービス</p>
 
-<iframe width="1120" height="480" src="https://www.youtube.com/embed/TzqsADBrkXs?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
+<div class="title">空撮カートゲーム（若者レジャー向け）</div>
+<p style="color:RoyalBlue">空撮視点からゴルフカートを操作する新感覚イベント開催。</p>
+
+<iframe width="1120" height="480" src="https://www.youtube.com/embed/UNHhfykh5Qc?rel=0&hd=1&showinfo=0&theme=light&autohide=1&loop=1" frameborder="0" allowfullscreen></iframe>
 
 ---
 
 ### Development Kit
 
-#### ドローン組み込みアプリケーションの開発例
+#### 組み込みアプリの開発例
 
 ---
 
-<div class="title">ゴルフ施設向け開発案件</div>
-<p style="color:RoyalBlue">GPSコースナビゲーションシステムを提案中</p>
+<div class="title">GPSコースナビ 集計アプリ開発</div>
 
 <div class="frame">
 
@@ -202,10 +60,6 @@ Note: 説明文
 </div>
 
 <div class="left">
-<li>GPSを搭載したゴルフボールで、コース上の位置を表示。</li>
-<li>コース外にボールが飛んでいった場合、打ち直しとなるか判定が微妙となる。
-GPSの位置情報でドローンを自立飛行させ、内蔵カメラでOBになったかどうかの確認を行う。</LI>
-
 <li>特徴：コース上に打った位置を記録し、全員分の面倒なスコアを集計するアプリをご提案。</li>
 <br>
 <li>備考：DroneのiPadコントローラをサーバとしてプレイデータを収集。
@@ -215,28 +69,6 @@ GPSの位置情報でドローンを自立飛行させ、内蔵カメラでOBに
 </div>
 
 Note: 説明文
-
----
-
-<div class="title">安全性に関する対応</div>
-
-<div class="frame">
-<li style="color:orange;">Wi-Fiが頻繁に途切れノーコンになる問題点も指摘される。</li>
-<li style="color:orange;">墜落の可能性があるため頭上を飛行させるのは危険。</li>
-<li style="color:orange;">訓練されたスタッフに操縦させるのが無難。</li>
-
-<li style="font-size:midium;">ドローン保険：
-　東京海上日動火災保険は、無人ヘリが事故を起こした場合などに損害をカバーする総合保険を４月に発売する。
-　無人ヘリは「ドローン」とも呼ばれ、物流や警備、空撮や災害救助など、幅広い活用が期待されている。
-同社によると、無人ヘリのリスクを広く補償する保険は国内で初めて。ドローンの普及を後押しする狙いもある。
-　同社が発売する「産業用無人ヘリコプター総合保険」は、無人ヘリが墜落したり、人に接触してけがを負わせたりした場合などに賠償するほか、機体の修理費や捜索費用、燃料が漏れた場合の清掃費用を補償する。ドローンが盗まれた場合も保険金が支払われる。</li>
-<br>
-
-</div>
-
-Note: 説明文
-
-
 
 
 ---
@@ -397,6 +229,27 @@ Note:
 
 Note: 説明文
 http://dev.dji.com/
+
+
+---
+
+<div class="title">安全性に関する対応</div>
+
+<div class="frame">
+<li style="color:orange;">Wi-Fiが頻繁に途切れノーコンになる問題点も指摘される。</li>
+<li style="color:orange;">墜落の可能性があるため頭上を飛行させるのは危険。</li>
+<li style="color:orange;">訓練されたスタッフに操縦させるのが無難。</li>
+
+<li style="font-size:midium;">ドローン保険：
+　東京海上日動火災保険は、無人ヘリが事故を起こした場合などに損害をカバーする総合保険を４月に発売する。
+　無人ヘリは「ドローン」とも呼ばれ、物流や警備、空撮や災害救助など、幅広い活用が期待されている。
+同社によると、無人ヘリのリスクを広く補償する保険は国内で初めて。ドローンの普及を後押しする狙いもある。
+　同社が発売する「産業用無人ヘリコプター総合保険」は、無人ヘリが墜落したり、人に接触してけがを負わせたりした場合などに賠償するほか、機体の修理費や捜索費用、燃料が漏れた場合の清掃費用を補償する。ドローンが盗まれた場合も保険金が支払われる。</li>
+<br>
+
+</div>
+
+Note: 説明文
 
 
 ---
