@@ -7,11 +7,152 @@
 <br>
 <br>
 <br>
-<div class="shadow"><h3><strong>ゴルフ施設でのDrone活用例</strong></h3></div>
+<div class="shadow"><h3><strong>ドローン自動追跡撮影システム</strong></h3></div>
 <br>
-<h4>2015.4.16 ATGS ご提案資料</h4>
+<h4>2015.6.25 ATGS ご提案資料</h4>
 </div>
 </div>
+
+
+---
+
+### 概要
+
+
+---
+
+<div class="title">概要</div>
+<div class="frame">
+
+<div class="right">
+<div class="shadow">
+</div>
+<div class="shadow">
+![](images/drone_control_aplication.jpg)
+</div>
+
+<div class="shadow" style="width:50%;">
+</div>
+<p style="font-size:small;"></p>
+</div>
+
+<div class="left">
+<li>ユーザはコントローラを持ってコースに沿って歩行速度で移動する。 コントローラに搭載したタブレットにアプリを組み込み、GPSの位置情報を取得。 数分単位にトラッキングした位置情報を基に、ドローンが自動で追跡し撮影する。
+</li>
+<li></li>
+<li></li>
+<li></li>
+<li style="color:green"></li>
+<li style="color:red"></li>
+</div>
+
+</div>
+
+Note: 説明文
+
+---
+
+<div class="title"></div>
+<div class="frame">
+
+<div class="right">
+<div class="shadow">
+</div>
+<div class="shadow">
+![](images/drone_control_aplication.jpg)
+</div>
+
+<div class="shadow" style="width:50%;">
+![](images/galaxy-visitor6-controller.jpg)
+</div>
+<p style="font-size:small;"></p>
+</div>
+
+<div class="left">
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li style="color:green"></li>
+<li style="color:red"></li>
+</div>
+
+</div>
+
+Note: 説明文
+
+---
+
+<div class="title"></div>
+<div class="frame">
+
+<div class="right">
+<div class="shadow">
+</div>
+<div class="shadow">
+![](images/drone_control_aplication.jpg)
+</div>
+
+<div class="shadow" style="width:50%;">
+![](images/galaxy-visitor6-controller.jpg)
+</div>
+<p style="font-size:small;"></p>
+</div>
+
+<div class="left">
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li style="color:green"></li>
+<li style="color:red"></li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title"></div>
+<div class="frame">
+
+<div class="right">
+<div class="shadow">
+</div>
+<div class="shadow">
+![](images/drone_control_aplication.jpg)
+</div>
+
+<div class="shadow" style="width:50%;">
+![](images/galaxy-visitor6-controller.jpg)
+</div>
+<p style="font-size:small;"></p>
+</div>
+
+<div class="left">
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li style="color:green"></li>
+<li style="color:red"></li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+
+
+
+
+
+---
+
+
 
 
 
