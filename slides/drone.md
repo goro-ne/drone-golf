@@ -21,8 +21,6 @@
 <li style="font-size:midium;">
 ユーザはコントローラを持ってコースに沿って歩行速度で移動する。
 </li>
-<div style="width:1120;height:480">
-</div>
 
 <li style="font-size:midium;">
 コントローラに搭載したタブレットにアプリを組み込み<br>
@@ -31,8 +29,18 @@ GPSの位置情報を取得する。 </li>
 <li style="font-size:midium;">
 数分単位にトラッキングした位置情報をもとにドローンが自動で追跡し撮影する。
 </li>
+
+<table style="border:0;s">
+<tr>
+<td class="shadow" style="width:50%;">
 ![](images/dji-phantom3.jpg)
+</td>
+<td class="shadow" style="width:50%;">
 ![](images/drone_control_aplication.jpg)
+</td>
+</tr>
+</table>
+
 </div>
 
 Note: 説明文
