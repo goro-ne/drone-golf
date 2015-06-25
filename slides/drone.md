@@ -32,10 +32,10 @@ GPSの位置情報を取得する。 </li>
 
 <table style="border:0;s">
 <tr>
-<td class="shadow" style="width:50%;">
+<td class="shadow" style="width:20%;">
 ![](images/dji-phantom3.jpg)
 </td>
-<td class="shadow" style="width:50%;">
+<td class="shadow" style="width:100%;">
 ![](images/drone_control_aplication.jpg)
 </td>
 </tr>
